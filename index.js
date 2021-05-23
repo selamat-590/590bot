@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@selamat-590 
-selamat-590
-/
-selamat-590
-1
-00
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-selamat-590/index.js /
-@selamat-590
-selamat-590 Add files via upload
-Latest commit 150ddb7 29 days ago
- History
- 1 contributor
-5815 lines (5472 sloc)  301 KB
-  
 //FULL FREE WEB APIKEY
 //TQ TO
 
@@ -5819,16 +5790,3 @@ if (budy.includes(`makasih`)) {
 			console.log('Error : %s', color(e, 'red'))
 		}
 	})
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
